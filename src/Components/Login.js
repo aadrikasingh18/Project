@@ -16,6 +16,15 @@ function Login() {
 
                 <div className="login">LOGIN</div>
 
+                <div className="user_vendor">
+                    <div>
+                    <input type="radio" name="mydetails" />User
+                    </div>
+                    <div>
+                    <input type="radio" name="mydetails" />Vendor
+                    </div>
+                </div>
+
                 <div className="names">
                     <input type="email" name="myemail" placeholder="Email" />
                 </div>

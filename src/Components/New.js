@@ -19,7 +19,7 @@ function New() {
         </div>
 
         <div className="names1new">
-          <input type="submit" value="SAVE" />
+          <button type="submit">SAVE</button>
         </div>
       </div>
     </>

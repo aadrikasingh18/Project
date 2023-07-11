@@ -13,10 +13,9 @@ function Otp() {
 
       <div className='headotp'>
         <p className='titleotp'>ENTER OTP</p>
-        <p className='title2'>Sent on the Email</p>
-
+        
         <div className="namesotp">
-          <input type="email" name="myemail" placeholder="ENTER OTP" />
+          <input type="email" name="myemail" placeholder="ENTER OTP SENT ON THE MAIL" />
         </div>
 
         <div className="names1otp">

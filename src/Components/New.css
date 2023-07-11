@@ -1,12 +1,15 @@
 .bgg5 img{
-    width: 700px;
-    margin-left: 50px;
-    margin-top: 60px;
+    width: 650px;
+    margin-top: 50px;
+    margin-left: 45px;
 }
 
 .titlenew{
     font-family: 'Orelega One', cursive;
-    font-size: 50px;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .headnew{
@@ -15,40 +18,46 @@
     margin-top: -300px;
     margin-left: 800px;
     width: 390px;
-    height: 182px;
+    height: 160px;
     background-color: #a3ceee;
     padding: 10px;
 }
 
 .namesnew{
-    padding-top: 8px;
-    padding-right: 20px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 .namesnew input{
-    font-size: 15px;
-    height: 28px;
-    width: 390px;
+    font-size: 18px;
     border: none;
+    outline: none;
+    width: 230px;
+    height: 30px;
+    padding-left: 12px;
+    margin-left: 45px;
 }
 
 .namesnew ::placeholder{
-    color: black;
-    padding-left: 15px;
+    background-color: white;
+    color: rgb(132, 130, 130);
+    font-size: 18px;
 }
 
 .names1new{
-    margin-left: 115px;
+    margin-left: 160px;
+    margin-top: -7px;
     padding-top: 16px;
+    font-size: 22px;
 }
 
-.names1new input{
+.names1new button{
     font-size: 18px;
     width: 70px;
     height: 27px;
     border: none;
     color: white;
     background-color: #035295;
-    margin-left: 204px;
-    margin-top: -7px;
+    cursor: pointer;
 }
