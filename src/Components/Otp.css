@@ -1,0 +1,59 @@
+.bgg4 img{
+    width: 700px;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.titleotp{
+    font-family: 'Orelega One', cursive;
+    font-size: 50px;
+}
+
+.title2{
+    font-size: 20px;
+    margin-top: -2px;
+}
+
+.headotp{
+    border-radius: 10px;
+    font-family: 'Orelega One';
+    margin-top: -300px;
+    margin-left: 800px;
+    width: 390px;
+    height: 148px;
+    background-color: #a3ceee;
+    padding: 10px;
+}
+
+.namesotp{
+    padding-top: 8px;
+    padding-right: 20px;
+}
+
+.namesotp input{
+    font-size: 15px;
+    height: 28px;
+    width: 390px;
+    border: none;
+}
+
+.namesotp ::placeholder{
+    color: black;
+    padding-left: 15px;
+}
+
+.names1otp{
+    margin-left: 115px;
+    padding-top: 16px;
+}
+
+.names1otp input{
+    font-size: 18px;
+    width: 70px;
+    height: 27px;
+    border: none;
+    color: white;
+    background-color: #035295;
+    margin-left: 204px;
+    margin-top: -7px;
+}

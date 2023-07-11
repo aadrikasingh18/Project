@@ -1,0 +1,90 @@
+.bgg2 img{
+    width: 650px;
+    margin-top: 50px;
+    margin-left: 45px;
+}
+
+.headup{
+   border-radius: 10px;
+   font-family: 'Orelega One', cursive;
+   margin-top: -410px;
+   margin-left: 755px;
+   width: 415px;
+   height: 360px;
+   background-color: #cce1f4;
+   padding: 12px;
+}
+
+.heading1up{
+   font-family: 'Orelega One', cursive;
+   font-size: 38px;
+   margin-left: 8px;
+}
+
+.signup{
+   font-size: 30px;
+   margin-left: 150px;
+   padding-top: 10px;
+   padding-bottom: 2px;
+}
+
+.namesup{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 4px;
+   margin: 2px 0px;
+   /* border: 1px solid black; */
+}
+
+.namesup ::placeholder{
+   background-color: white;
+   color: rgb(132, 130, 130);
+   font-size: 18px;
+}
+
+.namesup input{
+   border: none;
+   outline: none;
+   font-size: 18px;
+   height: 30px;
+   padding-left: 20px;
+}
+
+/* <-- Buttons -->*/
+
+.names1up, .googleup{
+   margin-left: 145px;
+   padding-top: 8px;
+   padding-right: 20px;
+} 
+
+.names1up button, .googleup button{
+   font-size: 17px;
+   width: 120px;
+   height: 35px;
+   border: none;
+   color: white;
+   background-color: #348aec;
+   cursor: pointer;
+}
+
+.moreup{
+   margin-left: 140px;
+   font-size: 19px;
+   padding-top: 12px;
+}
+
+.googleup button{
+   background-color: #db3c3c;
+}
+
+.googleup{
+   padding-top: 6px;
+}
+
+.memup{
+   margin-left: 90px;
+   padding-top: 12px;
+   font-size: 20px;
+}

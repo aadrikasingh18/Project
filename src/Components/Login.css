@@ -1,0 +1,95 @@
+.bgg img{
+    width: 650px;
+    margin-top: 50px;
+    margin-left: 45px;
+}
+
+.head{
+    border-radius: 10px;
+    font-family: 'Orelega One', cursive;
+    margin-top: -410px;
+    margin-left: 755px;
+    width: 415px;
+    height: 340px;
+    background-color: #fee2e2;
+    padding: 12px;
+}
+
+.heading1{
+    font-family: 'Orelega One', cursive;
+    font-size: 38px;
+    margin-left: 8px;
+}
+
+.login{
+    font-size: 30px;
+    margin-left: 165px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+
+.names{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+    margin: 2px 0px;
+}
+
+.names ::placeholder{
+    background-color: white;
+    color: rgb(132, 130, 130);
+    font-size: 18px;
+}
+
+.names input{
+    border: none;
+    outline: none;
+    font-size: 18px;
+    height: 30px;
+    padding-left: 20px;
+}
+
+.forgot{
+    margin-left: 140px;
+    font-size: 18px;
+    padding-top: 2px;
+}
+
+/* <-- Buttons --> */
+
+.names1, .google{
+    margin-left: 155px;
+    padding-top: 8px;
+    padding-right: 20px;
+}
+
+.names1 button, .google button{
+    font-size: 17px;
+    width: 120px;
+    height: 35px;
+    border: none;
+    color: white;
+    background-color: #7ab6f5;
+    cursor: pointer;
+}
+
+.more{
+    margin-left: 155px;
+    font-size: 19px;
+    padding-top: 10px;
+}
+
+.google button{
+    background-color: #db3c3c;
+}
+
+.google{
+    padding-top: 6px;
+}
+
+.mem{
+    margin-left: 90px;
+    padding-top: 12px;
+    font-size: 20px;
+}
